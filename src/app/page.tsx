@@ -53,7 +53,7 @@ export default function Home() {
             Outside of coding, I enjoy watching new shows and meeting up with friends.
           </p>
 
-          <img src="/pfp.jpg" alt="test2" className="flex items-center rounded-full size-52 lg:size-80 hover:animate-spin"/>
+          <img src="/pfp.jpg" alt="test2" className="flex items-center rounded-full size-52 lg:size-80"/>
         </div>
       </div>
 
